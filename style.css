@@ -1,0 +1,18 @@
+a:link{
+    text-decoration: none;
+    color: #545454;
+}
+
+a:visited{
+    color: #545454;
+}
+
+a:hover{
+    color:red;                  
+}
+
+body{
+	font-family: "Roboto","Trebuchet MS", sans-serif;
+	text-align: center;
+	padding: 30px 10px 5px 10px
+}
